@@ -1,4 +1,3 @@
-To-Do List App
 A simple and interactive To-Do List web application built with React and Vite. Add, delete, and reorder your daily tasks efficiently.
 
 🚀 Live Demo
